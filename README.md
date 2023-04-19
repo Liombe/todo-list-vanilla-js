@@ -1,10 +1,7 @@
 # Exercice technique Ringover : Todolist
 
-## 1. [Exercices](#exercices)
-
-## 2. [Todolist](#todolist)
-
----
+1. [Exercices](#1-exercices)
+2. [Todolist](#2-todolist)
 
 ## 1. Exercices
 
